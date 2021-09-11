@@ -16,11 +16,11 @@ A entrada contém um único conjunto de testes, que deve ser lido do dispositivo
 ### Saída
 Seu programa deve imprimir, na saída padrão, uma letra (A, B, C, D, ou E em maiúsculas) representando o conceito correspondente à nota dada na entrada.
   
-  
 
 ## Preenchimento de Vetor I
 <p align=justify>
 Você recebeu o desafio de ler um valor e criar um programa que coloque o valor lido na primeira posição de um vetor N[10]. Em cada posição subsequente, coloque o dobro do valor da posição anterior. Por exemplo, se o valor lido for 1, os valores do vetor devem ser 1,2,4,8 e assim sucessivamente. Mostre o vetor em seguida.
+  
 ### Entrada
 <p align=justify>
   
